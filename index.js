@@ -157,11 +157,11 @@ require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |• Alive: 24/7                            |
  |-----------------------------------------|
- |• Author: Supreme#2401                   |
+ |• Author: Pimsickgirl#5866               |
  |-----------------------------------------|
- |• Server: https://discord.gg/gU7XAxTpX5  |
+ |• Server: https://discord.gg/ATUS7FzSJh  |
  |-----------------------------------------|
- |• Github: https://github.com/diwasatreya |
+ |• Github: https://github.com/Pimsickgirl |
  |-----------------------------------------|
  |• License: Apache License 2.0            |
  |-----------------------------------------|
